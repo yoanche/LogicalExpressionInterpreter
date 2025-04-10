@@ -1,0 +1,14 @@
+C:\Users\yoana\OneDrive\Работен плот\KR_SAA\KR_SAA\bin\Debug\net8.0\KR_SAA.exe
+C:\Users\yoana\OneDrive\Работен плот\KR_SAA\KR_SAA\bin\Debug\net8.0\KR_SAA.deps.json
+C:\Users\yoana\OneDrive\Работен плот\KR_SAA\KR_SAA\bin\Debug\net8.0\KR_SAA.runtimeconfig.json
+C:\Users\yoana\OneDrive\Работен плот\KR_SAA\KR_SAA\bin\Debug\net8.0\KR_SAA.dll
+C:\Users\yoana\OneDrive\Работен плот\KR_SAA\KR_SAA\bin\Debug\net8.0\KR_SAA.pdb
+C:\Users\yoana\OneDrive\Работен плот\KR_SAA\KR_SAA\obj\Debug\net8.0\KR_SAA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoana\OneDrive\Работен плот\KR_SAA\KR_SAA\obj\Debug\net8.0\KR_SAA.AssemblyInfoInputs.cache
+C:\Users\yoana\OneDrive\Работен плот\KR_SAA\KR_SAA\obj\Debug\net8.0\KR_SAA.AssemblyInfo.cs
+C:\Users\yoana\OneDrive\Работен плот\KR_SAA\KR_SAA\obj\Debug\net8.0\KR_SAA.csproj.CoreCompileInputs.cache
+C:\Users\yoana\OneDrive\Работен плот\KR_SAA\KR_SAA\obj\Debug\net8.0\KR_SAA.dll
+C:\Users\yoana\OneDrive\Работен плот\KR_SAA\KR_SAA\obj\Debug\net8.0\refint\KR_SAA.dll
+C:\Users\yoana\OneDrive\Работен плот\KR_SAA\KR_SAA\obj\Debug\net8.0\KR_SAA.pdb
+C:\Users\yoana\OneDrive\Работен плот\KR_SAA\KR_SAA\obj\Debug\net8.0\KR_SAA.genruntimeconfig.cache
+C:\Users\yoana\OneDrive\Работен плот\KR_SAA\KR_SAA\obj\Debug\net8.0\ref\KR_SAA.dll
